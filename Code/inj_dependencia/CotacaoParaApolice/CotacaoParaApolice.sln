@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CotacaoParaApolice", "CotacaoParaApolice\CotacaoParaApolice.csproj", "{797F0011-B67A-452B-9FD1-3F049AE71BF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{442A6277-93C0-418B-9EB7-22FC003125E8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{797F0011-B67A-452B-9FD1-3F049AE71BF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{797F0011-B67A-452B-9FD1-3F049AE71BF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{797F0011-B67A-452B-9FD1-3F049AE71BF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{797F0011-B67A-452B-9FD1-3F049AE71BF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{442A6277-93C0-418B-9EB7-22FC003125E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{442A6277-93C0-418B-9EB7-22FC003125E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{442A6277-93C0-418B-9EB7-22FC003125E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{442A6277-93C0-418B-9EB7-22FC003125E8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
